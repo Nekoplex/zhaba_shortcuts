@@ -1,0 +1,17 @@
+{
+  "name": "zhababot-shortcuts",
+  "type": "module",
+  "version": "0.0.2",
+  "description": "makes zhababot commands shorter,works like commands retranslator",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nekoplex",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "vk-io": "^4.9.1"
+  },
+  "devDependencies": {}
+}
